@@ -1,0 +1,68 @@
+buildscript {
+    repositories {
+        jcenter()
+		google()
+    }
+    dependencies {
+        classpath 'com.google.gms:google-services:4.2.0'
+        classpath 'com.android.tools.build:gradle:3.0.1'
+    }
+}
+
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.0"
+
+    defaultConfig {
+        applicationId "com.nxp.mifaresdksample"
+        minSdkVersion 19
+        targetSdkVersion 27
+        multiDexEnabled true
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+}
+repositories{
+    flatDir{
+        dirs 'libs'
+    }
+    /** Following lines are for accessing the TapLinx jars from Repo directly */
+    maven {
+        credentials {
+            username "sdkuser"
+            password "taplinx"
+        }
+	url "http://maven.taplinx.nxp.com/nexus/content/repositories/taplinx/"
+	}
+	jcenter()
+	google()
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.android.gms:play-services-analytics:16.0.8' //For Using Google Analytics
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support:design:27.1.1'
+    implementation 'com.google.firebase:firebase-core:16.0.8'
+    implementation 'com.google.firebase:firebase-messaging:17.5.0'
+    implementation ('taplinx-android:nxpnfcandroidlib:1.5@aar'){
+	 transitive = true
+	 changing = true
+   }
+    implementation files('libs/core-1.54.0.0.jar')
+    implementation files('libs/pkix-1.54.0.0.jar')
+    implementation files('libs/prov-1.54.0.0.jar')
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}

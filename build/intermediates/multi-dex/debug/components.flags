@@ -1,0 +1,88 @@
+-injars '/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/libs/core-1.54.0.0.jar'(**.class)
+-injars '/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/libs/prov-1.54.0.0.jar'(**.class)
+-injars '/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/libs/pkix-1.54.0.0.jar'(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/1219d06ca1ebeefe4e03247d06fcb9df/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c0746311d855e926c57a535f57aa8fbd/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1075b0beec7e6a8475a88f4ac481d46a/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/5a8256047c760806bd8300c5c44805b8/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.8.aar/2d7b03e86ed50cc867ff102e4418f7af/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/de98bee63ec3e705c500a34aaab923c7/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a85c3fbd987ee3abbb914c15c89b8f50/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/63facb1fd5fc045a58314a4f5df094f3/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/da3e979522d3fb9f2e4e0b17681cc14a/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/41d6dafa30de2d0f70a5c222e669be22/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/c7999fed2a15103aa6ca40761e9eaa3d/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/ff85fd6d3995adc33ced6890a356a3ef/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/62fd51c4f202896954cb494bec8e11ac/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e3624d2a0e112d296a865cb68a0406d1/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/caa406b91c0c54d5cd5be9d3a7cefce7/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e19f03e84d650ad7bfeb853fd9d2f53/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f8fa63e0efe9c0639d751d5231d1ef11/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1f09ffca0c511a6f6122f5bb7b48615e/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/90dfd54fadb3a44014eb400e49924545/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/650eafeb01f03fe6079bca3479c72630/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ddbbc732c343d8a33a69baab745e297d/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7c6466c68f916808f57475b79978e91/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6c94d3d22c67b2da374b0c7b2699aca4/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9eec075948e80127adfb093457d49750/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d4c5a96af14be6cf851f2f15811a168/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.6/da725083ee79fdcd86d9f3d8a76e38174a01892a/auto-value-annotations-1.6.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/19785313e59bec8fb97c920db4f825f4/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4c2ff0d74b6ef4e1a01f9b1ba97f1f16/jars/classes.jar(**.class)
+-injars /Users/lajesh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars '/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/build/intermediates/classes/debug'(**.class)
+-outjars '/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars /Applications/SDK/build-tools/27.0.0/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration '/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/build/intermediates/multi-dex/debug/components.flags'
+
+
+# Referenced at /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/build/intermediates/manifests/full/debug/AndroidManifest.xml:33
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

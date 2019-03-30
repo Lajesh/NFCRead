@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/lajesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1075b0beec7e6a8475a88f4ac481d46a/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

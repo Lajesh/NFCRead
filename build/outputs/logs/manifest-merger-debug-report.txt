@@ -1,0 +1,530 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/1219d06ca1ebeefe4e03247d06fcb9df/AndroidManifest.xml:17:1-22:12
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.android.support:design:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c0746311d855e926c57a535f57aa8fbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1075b0beec7e6a8475a88f4ac481d46a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/5a8256047c760806bd8300c5c44805b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.8.aar/2d7b03e86ed50cc867ff102e4418f7af/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/de98bee63ec3e705c500a34aaab923c7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a85c3fbd987ee3abbb914c15c89b8f50/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/63facb1fd5fc045a58314a4f5df094f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/da3e979522d3fb9f2e4e0b17681cc14a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/41d6dafa30de2d0f70a5c222e669be22/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/c7999fed2a15103aa6ca40761e9eaa3d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/ff85fd6d3995adc33ced6890a356a3ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/62fd51c4f202896954cb494bec8e11ac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e3624d2a0e112d296a865cb68a0406d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/caa406b91c0c54d5cd5be9d3a7cefce7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e19f03e84d650ad7bfeb853fd9d2f53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f8fa63e0efe9c0639d751d5231d1ef11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1f09ffca0c511a6f6122f5bb7b48615e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/90dfd54fadb3a44014eb400e49924545/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/650eafeb01f03fe6079bca3479c72630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ddbbc732c343d8a33a69baab745e297d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7c6466c68f916808f57475b79978e91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6c94d3d22c67b2da374b0c7b2699aca4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9eec075948e80127adfb093457d49750/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d4c5a96af14be6cf851f2f15811a168/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/19785313e59bec8fb97c920db4f825f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4c2ff0d74b6ef4e1a01f9b1ba97f1f16/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:6:5-51
+	xmlns:android
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:8:5-62
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:11:5-62
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:8:22-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:11:22-76
+uses-feature#android.hardware.nfc
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:14:9-44
+supports-screens
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:17:5-23:40
+	android:largeScreens
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:19:9-36
+	android:smallScreens
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:22:9-36
+	android:normalScreens
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:20:9-37
+	android:xlargeScreens
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:23:9-37
+	android:resizeable
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:21:9-35
+	android:anyDensity
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:18:9-34
+application
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:25:5-56:25
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:13:5-42:19
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:13:5-42:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/5a8256047c760806bd8300c5c44805b8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/5a8256047c760806bd8300c5c44805b8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.8.aar/2d7b03e86ed50cc867ff102e4418f7af/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.8.aar/2d7b03e86ed50cc867ff102e4418f7af/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:29:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/de98bee63ec3e705c500a34aaab923c7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/de98bee63ec3e705c500a34aaab923c7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a85c3fbd987ee3abbb914c15c89b8f50/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a85c3fbd987ee3abbb914c15c89b8f50/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/63facb1fd5fc045a58314a4f5df094f3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/63facb1fd5fc045a58314a4f5df094f3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/da3e979522d3fb9f2e4e0b17681cc14a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/da3e979522d3fb9f2e4e0b17681cc14a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/41d6dafa30de2d0f70a5c222e669be22/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/41d6dafa30de2d0f70a5c222e669be22/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/c7999fed2a15103aa6ca40761e9eaa3d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/c7999fed2a15103aa6ca40761e9eaa3d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/ff85fd6d3995adc33ced6890a356a3ef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/ff85fd6d3995adc33ced6890a356a3ef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/62fd51c4f202896954cb494bec8e11ac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/62fd51c4f202896954cb494bec8e11ac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:27:9-36
+	android:description
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:28:9-47
+	android:theme
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:32:9-65
+	tools:replace
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:26:9-44
+	android:logo
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:31:9-43
+activity#com.nxp.sampletaplinx.SplashActivity
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:34:9-42:20
+	android:screenOrientation
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:35:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:40:27-74
+activity#com.nxp.sampletaplinx.MainActivity
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:43:9-55:20
+	android:screenOrientation
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:44:13-62
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED+android.nfc.action.TAG_DISCOVERED+android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:47:13-54:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:48:25-74
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:49:25-73
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:50:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml:52:27-73
+uses-sdk
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/1219d06ca1ebeefe4e03247d06fcb9df/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/1219d06ca1ebeefe4e03247d06fcb9df/AndroidManifest.xml:20:5-43
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:7:5-9:41
+MERGED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c0746311d855e926c57a535f57aa8fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c0746311d855e926c57a535f57aa8fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1075b0beec7e6a8475a88f4ac481d46a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1075b0beec7e6a8475a88f4ac481d46a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/5a8256047c760806bd8300c5c44805b8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/5a8256047c760806bd8300c5c44805b8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.8.aar/2d7b03e86ed50cc867ff102e4418f7af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.8.aar/2d7b03e86ed50cc867ff102e4418f7af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/de98bee63ec3e705c500a34aaab923c7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/de98bee63ec3e705c500a34aaab923c7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a85c3fbd987ee3abbb914c15c89b8f50/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a85c3fbd987ee3abbb914c15c89b8f50/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/63facb1fd5fc045a58314a4f5df094f3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/63facb1fd5fc045a58314a4f5df094f3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/da3e979522d3fb9f2e4e0b17681cc14a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/da3e979522d3fb9f2e4e0b17681cc14a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/41d6dafa30de2d0f70a5c222e669be22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/41d6dafa30de2d0f70a5c222e669be22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/c7999fed2a15103aa6ca40761e9eaa3d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/c7999fed2a15103aa6ca40761e9eaa3d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/ff85fd6d3995adc33ced6890a356a3ef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/ff85fd6d3995adc33ced6890a356a3ef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/62fd51c4f202896954cb494bec8e11ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/62fd51c4f202896954cb494bec8e11ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e3624d2a0e112d296a865cb68a0406d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e3624d2a0e112d296a865cb68a0406d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/caa406b91c0c54d5cd5be9d3a7cefce7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/caa406b91c0c54d5cd5be9d3a7cefce7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e19f03e84d650ad7bfeb853fd9d2f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e19f03e84d650ad7bfeb853fd9d2f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f8fa63e0efe9c0639d751d5231d1ef11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f8fa63e0efe9c0639d751d5231d1ef11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1f09ffca0c511a6f6122f5bb7b48615e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1f09ffca0c511a6f6122f5bb7b48615e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/90dfd54fadb3a44014eb400e49924545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/90dfd54fadb3a44014eb400e49924545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/650eafeb01f03fe6079bca3479c72630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/650eafeb01f03fe6079bca3479c72630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ddbbc732c343d8a33a69baab745e297d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ddbbc732c343d8a33a69baab745e297d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7c6466c68f916808f57475b79978e91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7c6466c68f916808f57475b79978e91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6c94d3d22c67b2da374b0c7b2699aca4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6c94d3d22c67b2da374b0c7b2699aca4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9eec075948e80127adfb093457d49750/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9eec075948e80127adfb093457d49750/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d4c5a96af14be6cf851f2f15811a168/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d4c5a96af14be6cf851f2f15811a168/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/19785313e59bec8fb97c920db4f825f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/19785313e59bec8fb97c920db4f825f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4c2ff0d74b6ef4e1a01f9b1ba97f1f16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4c2ff0d74b6ef4e1a01f9b1ba97f1f16/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		ADDED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+		INJECTED from /Users/lajesh/Documents/Projects/Axiom/Prototypes/MIFARE SDK/SrcsampleNxpNfcLib-1/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:16:9-22:20
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:30:9-34:20
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:17:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:19:13-21:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:20:17-94
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:20:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:24:9-27:40
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:36:9-39:40
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:25:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:33:9-39:20
+	android:exported
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:34:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:36:13-38:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:37:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:41:9-92
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.5] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/nxpnfcandroidlib-1.5.aar/164a1b6d7610055f0809ff17c5ad0bba/AndroidManifest.xml:41:18-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.8.aar/53cebc26330bf8955dd352ba61a07ba3/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/f312c381fb4872c5a5bb7507ab5c7bc1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:27:22-65
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.8.aar/abcaddd6d61faff9603216e66d8376a1/AndroidManifest.xml:41:13-80
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/f7e03a0f98feadd74d18a6f5aff0f152/AndroidManifest.xml:32:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/544a8f86cfa9fe34d35b1581edf866a1/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:38:13-78
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/3a87ba6312eee8a40d0d3caadf439284/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b6dcace71962635abbcb7d8895968714/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/eee13eed1e3eaf927566e87ab9385ad4/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/4f7d0b45be2ebcddb144767b9a8b48e7/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/f17a9880cf0b3445bd6f1a02a42d8f8e/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/lajesh/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/bb2b4ea439c4f21a60fd51060777f68c/AndroidManifest.xml:24:13-58
